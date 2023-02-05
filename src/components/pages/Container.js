@@ -1,6 +1,5 @@
 import { Outlet} from "react-router-dom";
 import Header from "../shared/Header";
-import Body from "../shared/Body";
 import Footer from "../shared/Footer";
 
 const Container = () => {

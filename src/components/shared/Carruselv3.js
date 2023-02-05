@@ -23,30 +23,31 @@ export default function Carruselv2() {
   };
 
   return (
-    <div className="Carruselv2">
+    <div className="Carruselv2" >
       <Carousel responsive={responsive}>
-        <div className="card">
+        <div className="card" style={{ height: 298, width: 300}}  >
           <img 
           className="product--image"
           src="https://i.pinimg.com/564x/9b/1c/57/9b1c5716f5c211ae7cb8e0ab3ca01afb.jpg" 
           alt="product img"/>
+          
         </div>
         
-        <div className="card">
+        <div className="card" style={{ height: 298, width: 300}}>
           <img 
           className="product--image"
           src="https://i.pinimg.com/564x/bb/0e/d7/bb0ed76c2599d9770e417d3be3349775.jpg" 
           alt="product img"/>
         </div>
 
-        <div className="card">
+        <div className="card" style={{ height: 298, width: 300}}>
           <img 
           className="product--image"
           src="https://i.pinimg.com/564x/6f/59/7a/6f597ac59b5129ee44f9031590ef2429.jpg" 
           alt="product img"/>
         </div>
 
-        <div className="card">
+        <div className="card" style={{ height: 298, width: 300}}>
           <img 
           className="product--image"
           src="https://i.pinimg.com/564x/6e/8f/6c/6e8f6c2de06f2053add1cbf9756994f7.jpg" 
@@ -95,10 +96,8 @@ export default function Carruselv2() {
           alt="product img"/>
         </div>
       </Carousel>
-      <h1 className="pokemon">muchas cosas mas</h1>
     </div>
   );
 }
-
 
 
