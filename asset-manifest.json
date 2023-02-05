@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/Tienda-front/static/css/main.073c9b0a.css",
-    "main.js": "/Tienda-front/static/js/main.6e08e74d.js",
+    "main.css": "/Tienda-front/static/css/main.d0014564.css",
+    "main.js": "/Tienda-front/static/js/main.238e1d19.js",
     "static/js/787.71df535f.chunk.js": "/Tienda-front/static/js/787.71df535f.chunk.js",
-    "static/media/logo.svg": "/Tienda-front/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/revicons.eot": "/Tienda-front/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Tienda-front/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Tienda-front/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Tienda-front/index.html",
-    "main.073c9b0a.css.map": "/Tienda-front/static/css/main.073c9b0a.css.map",
-    "main.6e08e74d.js.map": "/Tienda-front/static/js/main.6e08e74d.js.map",
+    "main.d0014564.css.map": "/Tienda-front/static/css/main.d0014564.css.map",
+    "main.238e1d19.js.map": "/Tienda-front/static/js/main.238e1d19.js.map",
     "787.71df535f.chunk.js.map": "/Tienda-front/static/js/787.71df535f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6e08e74d.js"
+    "static/css/main.d0014564.css",
+    "static/js/main.238e1d19.js"
   ]
 }
